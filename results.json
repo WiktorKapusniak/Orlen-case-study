@@ -1,0 +1,50 @@
+{
+  "articles": [
+    {
+      "title": "Ceny gazu w górę o 30 procent. To skutek ataku na Katar",
+      "link": "https://biznesalert.pl/ceny-gazu-w-gore-o-30-procent-to-skutek-ataku-na-katar/",
+      "analysis": {
+        "keywords": ["atak na kompleks przemysłowy", "Katar", "LNG", "wzrost cen energii", "Iran"],
+        "sentiment": "negative",
+        "main_trend": "Atak na katarski kompleks LNG spowodował gwałtowny wzrost cen energii i ryzyko długotrwałych niedoborów gazu."
+      }
+    },
+    {
+      "title": "Cyfrowy Polsat zawiesił prace nad mega farmą solarną",
+      "link": "https://biznesalert.pl/cyfrowy-polsat-zawiesil-prace-nad-mega-farma-solarna/",
+      "analysis": {
+        "keywords": ["PAK-Polska Czysta Energia", "fotowoltaika", "farma fotowoltaiczna", "Polsat Plus", "OZE"],
+        "sentiment": "neutral",
+        "main_trend": "PAK-PCE rozszerza portfolio farm fotowoltaicznych, ale przyszłość dużego projektu PV Przykona jest niepewna."
+      }
+    },
+    {
+      "title": "Czyżby jednak ożywienie w wielkoskalowych OZE?",
+      "link": "https://biznesalert.pl/czyzby-jednak-ozywienie-w-wielkoskalowych-oze/",
+      "analysis": {
+        "keywords": ["OZE", "koncesje", "inwestycje", "energia elektryczna", "fotowoltaika"],
+        "sentiment": "positive",
+        "main_trend": "W lutym 2026 roku nastąpiło ożywienie inwestycji w odnawialne źródła energii z 23 nowymi koncesjami."
+      }
+    },
+    {
+      "title": "Brytyjscy eksperci: farmy wiatrowe mogą zakłócić działanie obrony powietrznej",
+      "link": "https://biznesalert.pl/brytyjscy-eksperci-farmy-wiatrowe-moga-zaklocic-dzialanie-obrony-powietrznej/",
+      "analysis": {
+        "keywords": ["farmy wiatrowe", "obrona przeciwrakietowa", "Wielka Brytania", "Iron Dome", "Ed Miliband"],
+        "sentiment": "negative",
+        "main_trend": "Rozwój farm wiatrowych zakłóca systemy obrony przeciwrakietowej w Wielkiej Brytanii, zwiększając ryzyko ataków dronów."
+      }
+    },
+    {
+      "title": "Polenergia planuje wydać 530 milionów na lądowe OZE",
+      "link": "https://biznesalert.pl/polenergia-planuje-wydac-530-milionow-na-ladowe-oze/",
+      "analysis": {
+        "keywords": ["farmy wiatrowe", "elektrownie fotowoltaiczne", "Polenergia", "Bałtyk 2 i 3", "OZE"],
+        "sentiment": "positive",
+        "main_trend": "Polenergia intensyfikuje inwestycje w wielkoskalowe odnawialne źródła energii, w tym farmy wiatrowe i fotowoltaiczne, z naciskiem na projekty morskie na Bałtyku."
+      }
+    }
+  ],
+  "global_trend": "Rosnące inwestycje i rozwój odnawialnych źródeł energii, zwłaszcza farm wiatrowych i fotowoltaicznych, są kluczową odpowiedzią na rosnące ryzyko i wyzwania związane z bezpieczeństwem energetycznym oraz niestabilnością rynku gazu."
+}
